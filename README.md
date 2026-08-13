@@ -1,6 +1,6 @@
 # Template Portfolio
 # About Me
-*My name is Ian James Delos Reyes, I'm a third-year undergraduate at BSU researching code comprehension interventions, it's nice to meet you! 
+My name is Ian James Delos Reyes, I'm a third-year undergraduate at Bulacan State University researching code comprehension interventions, it's nice to meet you! 
 
 Some fun facts about me:
 1. I love films.
