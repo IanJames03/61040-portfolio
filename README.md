@@ -9,7 +9,7 @@ Some fun facts about me:
 
 # My Favorite Film
 **Star Wars**  
-1997  
+1977  
 ![picture of Star Wars poster](https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 
