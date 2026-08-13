@@ -7,9 +7,9 @@ Some fun facts about me:
 2. I do programming.
 3. I like photography.
 
-My favorite film:
-Star Wars
-1997
+# My Favorite Film
+**Star Wars**  
+1997  
 ![picture of Star Wars poster](https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 
